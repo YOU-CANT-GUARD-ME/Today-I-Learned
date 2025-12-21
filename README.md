@@ -1,4 +1,5 @@
 # Today-I-Learned
-English: Today I worked on cleaning up my portfolio I created slides for a portfolio competition cleaned up the old slides I had made before and added a few new projects that I’ve done since then
 
-Korean: 오늘은 포트폴리오를 정리하는 작업을 했어요 포트폴리오 대회를 위해 슬라이드를 만들었고 예전에 만들었던 오래된 슬라이드를 정리하면서 그 이후에 새로 진행했던 프로젝트 몇 개를 추가했어요
+English: I worked on my frontend development and focused on making the A module for the web skills competition I feel like I am still lacking a lot in frontend so I am working on improving my skills That is all for today.
+
+Korean: 프론트엔드 개발 작업을 했고 웹 기능대회 A 모듈을 만드는 데 집중했다 프론트엔드 분야에서 아직 많이 부족하다고 느껴서 실력을 더 키우기 위해 계속 연습하고 있다 오늘은 여기까지다.
